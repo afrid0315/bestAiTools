@@ -13,3 +13,5 @@ ai.invideo. io
 🎙️ 𝗔𝗱𝗼𝗯𝗲 𝗣𝗼𝗱𝗰𝗮𝘀𝘁 ➜ https://podcast.adobe.com/
 
 📔 𝗪𝗶𝘀𝗲𝗰𝘂𝘁 ➜ https://www.wisecut.video/
+
+https://www.theaipromax.com/
