@@ -15,3 +15,13 @@ ai.invideo. io
 📔 𝗪𝗶𝘀𝗲𝗰𝘂𝘁 ➜ https://www.wisecut.video/
 
 https://www.theaipromax.com/
+
+1. Lucas: https://aurelius.link/lucas
+   
+3. Pictory: https://aurelius.link/pictory (Get 20% OFF using my link)
+   
+5. Wave Video: https://aurelius.link/wavevideo
+   
+7. Lumen5: https://aurelius.link/lumen5
+   
+9. inVideo: https://aurelius.link/invideo
