@@ -46,3 +46,5 @@ Link: https://www.openshot.org/
 Features: Shotcut is a free, open-source video editor that supports a wide range of formats and provides comprehensive editing tools. Like OpenShot, it is not AI-focused but is very capable.
 Watermarks: No watermarks.
 Link: https://www.shotcut.org/
+
+https://freesound.org/people/SergeQuadrado/sounds/455419/  - audio downloads
