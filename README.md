@@ -1,10 +1,10 @@
 # Best AI Tools
 
-ai.invideo. io
+ai.invideo. io   - used to convert script to video generator.
 
-✍️ 𝗚𝗿𝗮𝘃𝗶𝘁𝘆𝗪𝗿𝗶𝘁𝗲 ➜ https://gravitywrite.com/
+✍️ 𝗚𝗿𝗮𝘃𝗶𝘁𝘆𝗪𝗿𝗶𝘁𝗲 ➜ https://gravitywrite.com/  - used to write script accordingly and can use that script to create images and much more.
 
-🖥️ 𝗟𝘂𝗺𝗲𝗻𝟱 ➜ https://lumen5.com/
+🖥️ 𝗟𝘂𝗺𝗲𝗻𝟱 ➜ https://lumen5.com/  - used to convert script to video generator.
 
 📱 𝗩𝗶𝗱𝘆𝗼.𝗮𝗶 ➜ https://vidyo.ai/
 
@@ -18,13 +18,13 @@ https://www.theaipromax.com/
 
 1. Lucas: https://aurelius.link/lucas
    
-3. Pictory: https://aurelius.link/pictory (Get 20% OFF using my link)
+3. Pictory: https://aurelius.link/pictory - used to convert script to video generator.
    
 5. Wave Video: https://aurelius.link/wavevideo
    
 7. Lumen5: https://aurelius.link/lumen5
    
-9. inVideo: https://aurelius.link/invideo
+9. inVideo: https://aurelius.link/invideo - used to convert script to video generator.
 
 1. Kapwing
 Features: Kapwing is a versatile online video editor that provides tools for editing videos, adding subtitles, and more. It also offers an AI-powered video generator for creating content.
@@ -51,3 +51,7 @@ https://freesound.org/people/SergeQuadrado/sounds/455419/  - audio downloads
 
 
 10web.io -- for creating websites
+
+Fooocus in rundiffusion ➜ https://wl.tools/rundiffusion  - used to create ai images.
+
+https://www.pexels.com/  - pexels - can get different images for free.
