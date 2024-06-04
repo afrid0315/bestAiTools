@@ -62,3 +62,9 @@ https://freesound.org/people/SergeQuadrado/sounds/455419/  - audio downloads
 Fooocus in rundiffusion ➜ https://wl.tools/rundiffusion  - used to create ai images.
 
 https://www.pexels.com/  - pexels - can get different images for free.
+
+https://bluewillow.ai/  - to free AI artwork generator like images (hyper-realistic, 8k, ultra hd, pixar style, disney style, cinema 4d, --ar 3:2) -add this after giving script for more animation style.
+
+https://runwayml.com/ - text to image, image to videos in animated way.
+
+capcut - for editing videos free in phone.
