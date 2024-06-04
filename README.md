@@ -21,10 +21,7 @@ https://www.theaipromax.com/
 3. Pictory: https://aurelius.link/pictory - used to convert script to video generator.
    
 5. Wave Video: https://aurelius.link/wavevideo
-   
-7. Lumen5: https://aurelius.link/lumen5
-   
-9. inVideo: https://aurelius.link/invideo - used to convert script to video generator.
+
 
 1. Kapwing
 Features: Kapwing is a versatile online video editor that provides tools for editing videos, adding subtitles, and more. It also offers an AI-powered video generator for creating content.
@@ -53,7 +50,7 @@ https://freesound.org/people/SergeQuadrado/sounds/455419/  - audio downloads
 
 ✨ Veed.io ➜ https://wl.tools/veed-pro
 
-🖼️ Midjourney ➜ https://www.midjourney.com/
+
 
 📽️ LeiaPix ➜ https://www.leiapix.com/
 
@@ -63,8 +60,10 @@ Fooocus in rundiffusion ➜ https://wl.tools/rundiffusion  - used to create ai i
 
 https://www.pexels.com/  - pexels - can get different images for free.
 
-https://bluewillow.ai/  - to free AI artwork generator like images (hyper-realistic, 8k, ultra hd, pixar style, disney style, cinema 4d, --ar 3:2) -add this after giving script for more animation style.
+🖼️ Midjourney ➜ https://www.midjourney.com/ (or) https://bluewillow.ai/  (or) https://leonardo.ai/ - all tools to create free AI artwork generator like images (hyper-realistic, 8k, ultra hd, pixar style, disney style, cinema 4d, --ar 3:2) -add this after giving script for more animation style.
 
 https://runwayml.com/ - text to image, image to videos in animated way.
 
 capcut - for editing videos free in phone.
+
+
