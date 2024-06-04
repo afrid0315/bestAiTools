@@ -49,7 +49,8 @@ Link: https://www.shotcut.org/
 
 https://freesound.org/people/SergeQuadrado/sounds/455419/  - audio downloads
 
-🔊 Eleven Labs ➜ https://wl.tools/elevenlabs
+🔊 Eleven Labs ➜ https://wl.tools/elevenlabs  - create voice over by giving script
+
 ✨ Veed.io ➜ https://wl.tools/veed-pro
 
 🖼️ Midjourney ➜ https://www.midjourney.com/
