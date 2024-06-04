@@ -49,6 +49,12 @@ Link: https://www.shotcut.org/
 
 https://freesound.org/people/SergeQuadrado/sounds/455419/  - audio downloads
 
+🔊 Eleven Labs ➜ https://wl.tools/elevenlabs
+✨ Veed.io ➜ https://wl.tools/veed-pro
+
+🖼️ Midjourney ➜ https://www.midjourney.com/
+
+📽️ LeiaPix ➜ https://www.leiapix.com/
 
 10web.io -- for creating websites
 
