@@ -1,5 +1,7 @@
 # Best AI Tools
 
+Chat GPT - Generative Pre-Trained Transformer
+
 ai.invideo. io   - used to convert script to video generator.
 
 ✍️ 𝗚𝗿𝗮𝘃𝗶𝘁𝘆𝗪𝗿𝗶𝘁𝗲 ➜ https://gravitywrite.com/  - used to write script accordingly and can use that script to create images and much more.
