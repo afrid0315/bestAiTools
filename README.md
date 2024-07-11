@@ -4,6 +4,8 @@ Chat GPT - Generative Pre-Trained Transformer
 
 ai.invideo. io   - used to convert script to video generator.
 
+otter.ai - audio to text
+
 ✍️ 𝗚𝗿𝗮𝘃𝗶𝘁𝘆𝗪𝗿𝗶𝘁𝗲 ➜ https://gravitywrite.com/  - used to write script accordingly and can use that script to create images and much more.
 
 🖥️ 𝗟𝘂𝗺𝗲𝗻𝟱 ➜ https://lumen5.com/  - used to convert script to video generator.
