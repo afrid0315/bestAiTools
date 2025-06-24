@@ -73,3 +73,5 @@ capcut - for editing videos free in phone.
 https://lumalabs.ai/dream-machine - video creator
 
 pixabay - https://pixabay.com/
+
+Manis - used for Business Idea Research & Planning
