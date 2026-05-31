@@ -6,6 +6,8 @@ https://aistudio.google.com/prompts/new_chat -- create any app or website of cod
 
 https://stitch.withgoogle.com/ - can design ui / app tools by giving link
 
+https://chatgpt.com/g/g-67b866a648a88191b29e8274026994fd-be10x-ats-resume-generator
+
 Chat GPT - Generative Pre-Trained Transformer
 
 ai.invideo. io   - used to convert script to video generator.
