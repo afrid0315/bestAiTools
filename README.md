@@ -2,6 +2,8 @@
 
 https://wisprflow.ai/  --- voice to script converter
 
+https://aistudio.google.com/prompts/new_chat -- create any app or website of code
+
 https://stitch.withgoogle.com/ - can design ui / app tools by giving link
 
 Chat GPT - Generative Pre-Trained Transformer
