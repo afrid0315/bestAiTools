@@ -2,6 +2,8 @@
 
 https://wisprflow.ai/  --- voice to script converter
 
+https://stitch.withgoogle.com/ - can design ui / app tools by giving link
+
 Chat GPT - Generative Pre-Trained Transformer
 
 ai.invideo. io   - used to convert script to video generator.
